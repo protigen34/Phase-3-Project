@@ -1,0 +1,20 @@
+False Positive means User is Predicted to be True but is actually False
+  		     Users is predicted to have left the service, but actually hasn't
+
+
+False Negative means User is Predicted to be False but is actually True
+                     Users is predicted to still be in service, but actually has left
+
+
+True Negative means User is predicted to be False and actually is
+                    Users is predicted to still be in service, and actually is
+
+
+True Positive means Users is predicted to be True and actually is
+                    Users is predicted to have left, and actually has left
+
+
+
+Dummy Classifier
+EDA
+Cross Validation
