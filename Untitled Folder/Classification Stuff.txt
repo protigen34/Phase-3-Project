@@ -15,6 +15,3 @@ True Positive means Users is predicted to be True and actually is
 
 
 
-Dummy Classifier
-EDA
-Cross Validation
