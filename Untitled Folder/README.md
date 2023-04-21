@@ -33,7 +33,7 @@ https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset
 ## Project and Trials
 
 1. Initial trials ran.  Models such as KNearest Neighbors, Logistic Regression, GridSearch, and Cross Validation are some of the methods used.
-2. States and Area Codes are combined to find the most frequent churns by state and/or area codes 
+2. States and Area Codes are combined to find the most frequent churns by state and/or area codes.
 3. Decision Tree Model found to be the best model.
 4. Final Model is a form of Decision Tree Model.
 
